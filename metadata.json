@@ -1,0 +1,8 @@
+{
+  "name": "Claude Portfolio Prompt Architect",
+  "description": "Expert prompt engineering studio for Claude Web, Projects, and Artifacts. Generate production-grade, battle-tested personal portfolio prompts, preview the layout, and customize design systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
